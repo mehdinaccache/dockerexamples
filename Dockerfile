@@ -1,3 +1,3 @@
 FROM ubuntu:latest
 RUN mkdir /var/test
-RUN echo tessssssst9 > /var/test/test.docker
+RUN echo tessssssst10 > /var/test/test.docker
